@@ -1,0 +1,27 @@
+Begin Object Class=/Script/Paper2D.PaperSprite Name="GenericRightButtonSprite" ExportPath="/Script/Paper2D.PaperSprite'/Game/ExampleContent/UMG/CommonUI/ControllerBrushes/Icons/GenericRightButtonSprite.GenericRightButtonSprite'"
+   Begin Object Class=/Script/Engine.BodySetup Name="BodySetup_0" ExportPath="/Script/Engine.BodySetup'/Game/ExampleContent/UMG/CommonUI/ControllerBrushes/Icons/GenericRightButtonSprite.GenericRightButtonSprite:BodySetup_0'"
+   End Object
+   Begin Object Name="BodySetup_0" ExportPath="/Script/Engine.BodySetup'/Game/ExampleContent/UMG/CommonUI/ControllerBrushes/Icons/GenericRightButtonSprite.GenericRightButtonSprite:BodySetup_0'"
+      AggGeom=(BoxElems=((X=124.000000,Y=10.000000,Z=124.000000)))
+      DefaultInstance=(ObjectType=ECC_WorldDynamic,CollisionProfileName="BlockAllDynamic")
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   SourceTextureDimension=(X=565.000000,Y=128.000000)
+   SourceUV=(X=148.000000,Y=2.000000)
+   SourceDimension=(X=124.000000,Y=124.000000)
+   SourceTexture="/Game/ExampleContent/UMG/CommonUI/ControllerBrushes/Icons/Generic_Icons.Generic_Icons"
+   BakedSourceUV=(X=148.000000,Y=2.000000)
+   BakedSourceDimension=(X=124.000000,Y=124.000000)
+   BakedSourceTexture="/Script/Engine.Texture2D'/Game/ExampleContent/UMG/CommonUI/ControllerBrushes/Icons/Generic_Icons.Generic_Icons'"
+   DefaultMaterial="/Script/Engine.MaterialInstanceConstant'/Paper2D/TranslucentUnlitSpriteMaterial.TranslucentUnlitSpriteMaterial'"
+   PixelsPerUnrealUnit=1.000000
+   BodySetup="/Script/Engine.BodySetup'BodySetup_0'"
+   CollisionGeometry=(Shapes=((Vertices=((X=-62.000000,Y=-62.000000),(X=62.000000,Y=-62.000000),(X=62.000000,Y=62.000000),(X=-62.000000,Y=62.000000)),BoxSize=(X=124.000000,Y=124.000000),BoxPosition=(X=210.000000,Y=64.000000))))
+   RenderGeometry=(Shapes=((Vertices=((X=-62.000000,Y=-62.000000),(X=62.000000,Y=-62.000000),(X=62.000000,Y=62.000000),(X=-62.000000,Y=62.000000)),BoxSize=(X=124.000000,Y=124.000000),BoxPosition=(X=210.000000,Y=64.000000))))
+   BakedRenderData(0)=(X=62.000000,Y=62.000000,Z=0.481416,W=0.015625)
+   BakedRenderData(1)=(X=-62.000000,Y=62.000000,Z=0.261947,W=0.015625)
+   BakedRenderData(2)=(X=-62.000000,Y=-62.000000,Z=0.261947,W=0.984375)
+   BakedRenderData(3)=(X=62.000000,Y=-62.000000,Z=0.481416,W=0.984375)
+   BakedRenderData(4)=(X=62.000000,Y=62.000000,Z=0.481416,W=0.015625)
+   BakedRenderData(5)=(X=-62.000000,Y=-62.000000,Z=0.261947,W=0.984375)
+End Object
